@@ -71,7 +71,7 @@
 
 I'm always happy to connect — whether it's about a job opportunity, a project idea, or just a chat about tech!
 
-- 📧 **Email:** hanifwibhishana@gmail.com
+- 📧 **Email:** hanifakbar1110@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/hanifwibhishana](https://linkedin.com/in/hanifwibhishana)
 - 🐙 **GitHub:** [github.com/hanifwibhishana](https://github.com/hanifwibhishana)
 
