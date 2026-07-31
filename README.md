@@ -70,15 +70,13 @@
 
 ## 🚀 AI & Ml Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔨 *Coming soon* | I'm currently building projects to showcase here — check back soon! | — |
+| Preview | Project | Description | Tech Stack |
+|---------|---------|-------------|------------|
+| ![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-0EA5E9?style=for-the-badge) | Automated Knowledge RAG & LLM Pipeline <sub>(Juni 2026)</sub> | Python-based RAG system with automated data fetching, document ingestion, and context retrieval to improve LLM response accuracy. Scheduled daily via GitHub Actions with built-in notification support for real-time monitoring. | Python, RAG, LLM, GitHub Actions, Document Processing, Context Retrieval |
+| ![Plant AI](https://img.shields.io/badge/Plant%20AI-22C55E?style=for-the-badge) | Apple Leaf Disease Detection Using MobileNetV2 Transfer Learning <sub>(Final Thesis, 2026)</sub> | Image classification model using MobileNetV2 transfer learning on 12,000 apple leaf images, optimized with Adam to achieve 99.61% validation accuracy and 99.50% test accuracy. Converted to TensorFlow Lite for Flutter integration and offline SQLite-based diagnosis history. | Python, TensorFlow, MobileNetV2, TensorFlow Lite, Flutter, SQLite |
+| ![BurnoutSense](https://img.shields.io/badge/BurnoutSense-F97316?style=for-the-badge) | BurnoutSense: AI-Powered Employee Mental Health & Productivity Prediction Platform <sub>(Capstone Project, 2026)</sub> | Workplace burnout prediction platform selected as a Top 15 project from 469 Coding Camp projects powered by the DBS Foundation, with an end-to-end machine learning pipeline for fatigue-level prediction and monitoring. | Python, Machine Learning, AI, Data Pipeline, Scalable Application |
 
-## 🚀 Backend & Frontend (FullStack) Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔨 *Coming soon* | I'm currently building projects to showcase here — check back soon! | — |
 
 > 💡 *Have a project idea or want to collaborate? Feel free to [reach out](#-contact)!*
 
