@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hanifakbar1110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hanifwibhishana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/hanifwibhishana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hanifwibhishana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -66,10 +66,10 @@
 
 | Preview | Project | Description | Tech Stack |
 |---------|---------|-------------|------------|
-| ![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-0EA5E9?style=for-the-badge) | Automated Knowledge RAG & LLM Pipeline <sub>(Juni 2026)</sub> | Python-based RAG system with automated data fetching, document ingestion, and context retrieval to improve LLM response accuracy. Scheduled daily via GitHub Actions with built-in notification support for real-time monitoring. | Python, RAG, LLM, GitHub Actions, Document Processing, Context Retrieval |
-| ![Plant AI](https://img.shields.io/badge/Plant%20AI-22C55E?style=for-the-badge) | Apple Leaf Disease Detection Using MobileNetV2 Transfer Learning <sub>(Final Thesis, 2026)</sub> | Image classification model using MobileNetV2 transfer learning on 12,000 apple leaf images, optimized with Adam to achieve 99.61% validation accuracy and 99.50% test accuracy. Converted to TensorFlow Lite for Flutter integration and offline SQLite-based diagnosis history. | Python, TensorFlow, MobileNetV2, TensorFlow Lite, Flutter, SQLite |
-| ![BurnoutSense](https://img.shields.io/badge/BurnoutSense-F97316?style=for-the-badge) | BurnoutSense: AI-Powered Employee Mental Health & Productivity Prediction Platform <sub>(Capstone Project, 2026)</sub> | Workplace burnout prediction platform selected as a Top 15 project from 469 Coding Camp projects powered by the DBS Foundation, with an end-to-end machine learning pipeline for fatigue-level prediction and monitoring. | Python, Machine Learning, AI, Data Pipeline, Scalable Application |
-| ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-8B5CF6?style=for-the-badge) | Sentiment Analysis Shopee & Play Store <sub>(2026)</sub> | End-to-end sentiment analysis project for Shopee and Google Play Store reviews, covering text preprocessing, feature extraction, model training, and evaluation to classify user feedback into sentiment categories. | Python, NLP, Scikit-learn, Pandas, Matplotlib, SVM, Naive Bayes |
+| [![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-0EA5E9?style=for-the-badge)] (https://github.com/hanifwibhishana/Knowledege-RAG-LLM-Tech) | Automated Knowledge RAG & LLM Pipeline <sub>(Juni 2026)</sub> | Python-based RAG system with automated data fetching, document ingestion, and context retrieval to improve LLM response accuracy. Scheduled daily via GitHub Actions with built-in notification support for real-time monitoring. | Python, RAG, LLM, GitHub Actions, Document Processing, Context Retrieval |
+| [![Plant AI](https://img.shields.io/badge/Plant%20AI-22C55E?style=for-the-badge)] (https://github.com/hanifwibhishana/final-project) | Apple Leaf Disease Detection Using MobileNetV2 Transfer Learning <sub>(Final Thesis, 2026)</sub> | Image classification model using MobileNetV2 transfer learning on 12,000 apple leaf images, optimized with Adam to achieve 99.61% validation accuracy and 99.50% test accuracy. Converted to TensorFlow Lite for Flutter integration and offline SQLite-based diagnosis history. | Python, TensorFlow, MobileNetV2, TensorFlow Lite, Flutter, SQLite |
+| [![BurnoutSense](https://img.shields.io/badge/BurnoutSense-F97316?style=for-the-badge)] (https://github.com/hanifwibhishana/burnout-sense-dicoding-capstone-project) | BurnoutSense: AI-Powered Employee Mental Health & Productivity Prediction Platform <sub>(Capstone Project, 2026)</sub> | Workplace burnout prediction platform selected as a Top 15 project from 469 Coding Camp projects powered by the DBS Foundation, with an end-to-end machine learning pipeline for fatigue-level prediction and monitoring. | Python, Machine Learning, AI, Data Pipeline, Scalable Application |
+| [![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-8B5CF6?style=for-the-badge)] (https://github.com/hanifwibhishana/sentiment-analysis-shopee-playstore) | Sentiment Analysis Shopee & Play Store <sub>(2026)</sub> | End-to-end sentiment analysis project for Shopee and Google Play Store reviews, covering text preprocessing, feature extraction, model training, and evaluation to classify user feedback into sentiment categories. | Python, NLP, Scikit-learn, Pandas, Matplotlib, SVM, Naive Bayes |
 | [![Clustering ML](https://img.shields.io/badge/Clustering%20ML-14B8A6?style=for-the-badge)](https://github.com/hanifwibhishana/ML-Classification-and-Clustering) | ML Classification and Clustering <sub>(2026)</sub> | Machine learning project focused on supervised classification and unsupervised clustering to compare model performance, explore data patterns, and generate actionable insights from structured datasets. | Python, Machine Learning, Classification, Clustering, Scikit-learn, K-Means, Decision Tree |
 
 
@@ -81,7 +81,7 @@
 
 I'm always happy to connect — whether it's about a job opportunity, a project idea, or just a chat about tech!
 
-- 📧 **Email:** hanifakbar1110@gmail.com
+- 📧 **Email:** hanifwibhishana@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/hanifwibhishana](https://linkedin.com/in/hanifwibhishana)
 - 🐙 **GitHub:** [github.com/hanifwibhishana](https://github.com/hanifwibhishana)
 
