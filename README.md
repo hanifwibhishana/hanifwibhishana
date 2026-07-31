@@ -75,8 +75,6 @@
 | ![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-0EA5E9?style=for-the-badge) | Automated Knowledge RAG & LLM Pipeline <sub>(Juni 2026)</sub> | Python-based RAG system with automated data fetching, document ingestion, and context retrieval to improve LLM response accuracy. Scheduled daily via GitHub Actions with built-in notification support for real-time monitoring. | Python, RAG, LLM, GitHub Actions, Document Processing, Context Retrieval |
 | ![Plant AI](https://img.shields.io/badge/Plant%20AI-22C55E?style=for-the-badge) | Apple Leaf Disease Detection Using MobileNetV2 Transfer Learning <sub>(Final Thesis, 2026)</sub> | Image classification model using MobileNetV2 transfer learning on 12,000 apple leaf images, optimized with Adam to achieve 99.61% validation accuracy and 99.50% test accuracy. Converted to TensorFlow Lite for Flutter integration and offline SQLite-based diagnosis history. | Python, TensorFlow, MobileNetV2, TensorFlow Lite, Flutter, SQLite |
 | ![BurnoutSense](https://img.shields.io/badge/BurnoutSense-F97316?style=for-the-badge) | BurnoutSense: AI-Powered Employee Mental Health & Productivity Prediction Platform <sub>(Capstone Project, 2026)</sub> | Workplace burnout prediction platform selected as a Top 15 project from 469 Coding Camp projects powered by the DBS Foundation, with an end-to-end machine learning pipeline for fatigue-level prediction and monitoring. | Python, Machine Learning, AI, Data Pipeline, Scalable Application |
-| ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-8B5CF6?style=for-the-badge) | Analisis Sentimen Review Aplikasi Shopee <sub>(Machine Learning Project)</sub> | End-to-end sentiment analysis project for Shopee Play Store reviews, covering scraping, preprocessing, sentiment labeling, and model comparison with SVM + TF-IDF, Random Forest, Word2Vec, and Bidirectional LSTM. | Python, pandas, NumPy, scikit-learn, TensorFlow, Gensim, Sastrawi, imbalanced-learn |
-| ![Classification](https://img.shields.io/badge/Classification%20%26%20Clustering-2563EB?style=for-the-badge) | Machine Learning Project: Clustering dan Classification <sub>(Submission)</sub> | Classification workflow built on clustering-derived data, using Decision Tree, Random Forest, and GridSearchCV to evaluate accuracy, precision, recall, and F1-score, then saving the trained models. | Python, pandas, scikit-learn, GridSearchCV, RandomForest, DecisionTree, joblib |
 
 
 
@@ -86,10 +84,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanifwibhishana&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub contribution statistics showing commits, pull requests, and issues" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifwibhishana&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages chart" height="160"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hanifwibhishana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats for Hanif Wibhishana" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifwibhishana&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used programming languages" height="170" />
+    </td>
+  </tr>
+</table>
 
 ---
 
