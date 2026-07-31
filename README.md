@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Hanif Wibhishana 👋</h1>
 
 <p align="center">
-  <b>Software Developer · Open to New Opportunities</b><br/>
-  Passionate about building clean, efficient, and impactful software solutions.
+  <b>Data Science · Open to New Opportunities</b><br/>
+  Passionate about building clean, efficient, and impactful AI & Data solutions.
 </p>
 
 <p align="center">
